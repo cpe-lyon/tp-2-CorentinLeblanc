@@ -21,6 +21,7 @@ lorsqu'elle est renseigné sans argument
 
 -   SHELL : défini le système d'exploitation sur lequel on se trouve
 
+
 > 4 -- J'ai créé une variable locale nommée MY_VAR et vérifié qu'elle
 > existe bien.
 >
