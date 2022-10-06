@@ -69,6 +69,7 @@ lorsqu'elle est renseigné sans argument
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image9.png)
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image10.png)
+> 
 > Ajout du chemin pour les scripts dans le PATH :
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image11.png)
