@@ -53,7 +53,7 @@ lorsqu'elle est renseigné sans argument
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image6.png)
 >
-> ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image7.png
+> ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image7.png)
 >
 > 9 -- La différence qu'il va y avoir entre donner une valeur vide à une
 > variable d'environnement où l'utilisation de la commande « unset » est
