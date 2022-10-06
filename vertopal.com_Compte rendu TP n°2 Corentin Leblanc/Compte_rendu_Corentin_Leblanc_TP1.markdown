@@ -1,6 +1,6 @@
-**[Compte rendu TP 2 Bash]{.ul}**
+**[Compte rendu TP 2 Bash]**
 
-**[Exercice 1. Variables d'environnement]{.ul}**
+**[Exercice 1. Variables d'environnement]**
 
 1 -- Bash trouve les commandes tapées par l'utilisateur dans les
 dossiers présents dans le PATH.
@@ -73,35 +73,35 @@ lorsqu'elle est renseigné sans argument
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image11.png)
 >
-> **[Exercice 2. Contrôle de mot de passe]{.ul}**
+> **[Exercice 2. Contrôle de mot de passe]**
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image12.png)
 >
-> **[Exercice 3. Expressions rationnelles]{.ul}**
+> **[Exercice 3. Expressions rationnelles]**
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image13.png)
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image14.png)
 >
-> **[Exercice 4. Contrôle d'utilisateur]{.ul}**
+> **[Exercice 4. Contrôle d'utilisateur]**
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image15.png)
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image16.png)
 >
-> **[Exercice 5. Factorielle]{.ul}**
+> **[Exercice 5. Factorielle]**
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image17.png)
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image18.png)
 >
-> **[Exercice 6. Le juste prix]{.ul}**
+> **[Exercice 6. Le juste prix]**
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image19.png)
 >
 > ![](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image20.png)
 >
-> **[Exercice 7. Statistiques]{.ul}**
+> **[Exercice 7. Statistiques]**
 >
 > ![Une image contenant texte Description générée
 > automatiquement](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image21.png)
