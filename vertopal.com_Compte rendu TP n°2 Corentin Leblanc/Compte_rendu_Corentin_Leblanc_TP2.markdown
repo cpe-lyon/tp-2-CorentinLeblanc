@@ -110,3 +110,10 @@ lorsqu'elle est renseigné sans argument
 >
 > ![Une image contenant texte Description générée
 > automatiquement](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image22.png)
+
+Quelques petites aides:
+
+![image](https://user-images.githubusercontent.com/104362418/197330981-92014b92-0a64-40aa-b890-1032e0cf62f1.png)
+
+![image](https://user-images.githubusercontent.com/104362418/197330986-5a092378-a567-4ea4-bd56-844f24eac6b9.png)
+
