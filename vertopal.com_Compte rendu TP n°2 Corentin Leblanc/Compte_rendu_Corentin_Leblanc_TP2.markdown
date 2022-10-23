@@ -111,6 +111,30 @@ lorsqu'elle est renseigné sans argument
 > ![Une image contenant texte Description générée
 > automatiquement](vertopal_27af89dc06304f3292fb7fc711cdd886/media/image22.png)
 
+Elements de correction:
+
+Version sans test des paramètres:
+
+![image](https://user-images.githubusercontent.com/104362418/197400688-44e20804-ef94-494b-bbec-3d23ac37b5d6.png)
+
+Test des paramètres : 
+
+![image](https://user-images.githubusercontent.com/104362418/197400727-f374db6a-6676-42da-8e4b-dbf008e3d993.png)
+
+![image](https://user-images.githubusercontent.com/104362418/197400734-4bdc5728-3052-4360-a65c-9c554eb57bcf.png)
+
+Avec plus ou moins de 3 paramètres :
+
+![image](https://user-images.githubusercontent.com/104362418/197400781-564e9276-ae1e-4199-95ed-6cca0474a4a5.png)
+
+![image](https://user-images.githubusercontent.com/104362418/197400789-0175dc72-732f-4d0f-97e9-40a4fc0f80da.png)
+
+![image](https://user-images.githubusercontent.com/104362418/197400799-a79f85e6-d3c3-4d5c-b5f5-43b840d7f9b5.png)
+
+Solution complète:
+
+![image](https://user-images.githubusercontent.com/104362418/197400835-000c19ea-e7bd-4dd2-af7e-df54d499471a.png)
+
 Quelques petites aides:
 
 ![image](https://user-images.githubusercontent.com/104362418/197330981-92014b92-0a64-40aa-b890-1032e0cf62f1.png)
